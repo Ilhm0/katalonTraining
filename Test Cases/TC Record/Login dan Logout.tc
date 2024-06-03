@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>first using Katalon</description>
+   <name>Login dan Logout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>84462475-bc7a-4766-8968-ee417a2fddfb</testCaseGuid>
+</TestCaseEntity>
